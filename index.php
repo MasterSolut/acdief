@@ -7,10 +7,8 @@
   ============================-->
   <section id="intro">
     <div class="intro-container">
-      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
-
-        <ol class="carousel-indicators"></ol>
-
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel"> 
+        <ol class="carousel-indicators"></ol> 
         <div class="carousel-inner" role="listbox">
           <div class="carousel-item active">
             <div class="carousel-background"><img src="img/intro-carousel/01.jpg" alt=""></div>
@@ -203,7 +201,7 @@
           </div> 
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title">Foramtion</h4> 
+            <h4 class="title">Formation</h4> 
           </div>
         </div>
       </div>

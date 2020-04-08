@@ -5,6 +5,7 @@
   <title>Bienvenue au portail d’ACDIEF</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta content="Action Collective pour le Développement Intégral de l’Enfance et de la jeune Fille " name="description">
 
   <!-- Favicons -->
@@ -37,13 +38,13 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="index.php" class="scrollto">ACDIEF</a></h1>
+        <h1><a href="#" class="scrollto">ACDIEF</a></h1>
       </div>
 
       <nav id="nav-menu-container">
           <ul class="nav-menu">
-              <li class="menu-active"><a href="index.php">Accueil</a></li>
-              <li class="menu-has-children"><a href="" class="sf-with-ul">ACDIEF</a>
+              <li class="menu-active"><a href="#intro">Accueil</a></li>
+              <li class="menu-active menu-has-children"><a href="#about" class="sf-with-ul">ACDIEF</a>
                 <ul style="display: none;"> 
                   <li><a href="#about">A Propos</a></li>
                   <li><a href="#testimonials">Nos Domaines</a></li>
