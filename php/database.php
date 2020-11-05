@@ -3,7 +3,7 @@
     function connectToDatabase() {
 
         $host = "localhost";
-        $dbname = "acdief_db";
+        $dbname = "acdief_db_old";
         $user = "root";
         $password = "";
 

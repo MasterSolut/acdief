@@ -32,14 +32,14 @@
             </p>
 
             <div class="social-links"> 
-              <a href="www.facebook.com/acdieftogo" class="facebook"><i class="fa fa-facebook"></i></a> 
+              <a href="https://www.facebook.com/acdieftogo" class="facebook"><i class="fa fa-facebook"></i></a> 
             </div>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Notre Newsletter</h4>
-            <p>Recevez les dernières nouvelles de CINI directement dans votre boite mail.</p>
+            <p>Recevez les dernières nouvelles de ACDIEF directement dans votre boite mail.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit"  value="Subscribe">
             </form>
